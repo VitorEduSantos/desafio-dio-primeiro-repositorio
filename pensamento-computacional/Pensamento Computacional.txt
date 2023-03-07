@@ -1,0 +1,65 @@
+﻿Pensamento Computacional
+O que é?
+Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+Baseado em 4 pilares:
+1 Decomposição: dividir um problema complexo em sub problemas;
+2 Reconhecimento de padrões: similaridades e diferenças entre os problemas, identificar padrões ou tendências;
+3 Abstração: extrapolar o conceito do problema para uma forma generalista;
+4 Design de algoritmos: automatizar, definir passo a passo
+Habilidades complementares
+Raciocínio lógico: forma de pensamento estruturado ou raciocínio que permite encontrar a conclusão ou determinar a resolução de um problema.
+Grupos do raciocínio lógico:
+Indução; dedução e abdução.
+Aperfeiçoamento:
+Melhoramento, aprimoramento, ato de aperfeiçoar, refinamento.
+A partir de uma solução, determinar pontos de melhora e refinamento.
+
+Pilares: Decomposição
+Dado um problema complexo, devemos quebrá-lo em problemas menores.
+Estratégia
+Análise: processo de quebrar e determinar partes gerenciáveis;
+Síntese: combinar os elementos recompondo o problema original. (Fazer ter sentido, fundir os elementos de maneira corrente, processo de reconstrução).
+Ordem de execução de tarefas: sequencial ou paralelo.
+Como decompor?
+Identificar os dados
+Agregar os dados
+Funcionalidade
+
+Pilares: Padrões
+Reconhecimento de padrões:
+Modelo de base;
+Estrutura invariante;
+Repetição.
+Similaridades e diferenças
+Porque determinar padrões?
+Generalizar com o objetivo de obter resolução para problemas diferentes.
+Pilares: Abstração
+Abstrair
+Observar um ou mais elementos, avaliando características e propriedades em separado.
+Abstração
+Processo intelectual de isolamento de um objetivo da realidade.
+Generalizar
+Tornar algo geral, amplo, extensão.
+Generalização na lógica é a operação intelectual que consiste em reunir numa classe geral um conjunto de seres, ou fenômenos similares.
+Como classificar dados:
+Características;
+Pontos essenciais;
+Generalizar X detalhar;
+
+Pilares: Algoritmos
+O computador não faz sozinho!
+Processamento de dados:
+O computador recebe, manipula e armazena dados.
+Processo de resolução de problemas, passo a passo utilizando instruções.
+Entendimento humano e máquina
+Desenvolvimento de programa
+Análise: Estudo e definição de dados de entrada e de saída;
+Algoritmo: descreve o problema por meio de ferramentas narrativas como fluxograma e pseudocódigo;
+Codificação: o Algoritmo é codificado de acordo com a linguagem de programação escolhida.
+Como construir um algoritmo?
+Compreensão do problema (pontos mais importantes);
+Definição de entrada (dados fornecido e cenário)
+Definir pensamento (cálculos e restrições)
+Definir dados de saída(após o processamento)
+Utilizar método de construção, teste e diagnóstico (construção e refinamento de Algoritmo)
+

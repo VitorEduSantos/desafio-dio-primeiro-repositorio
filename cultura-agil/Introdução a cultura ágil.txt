@@ -1,0 +1,53 @@
+﻿Introdução a Cultura Ágil
+
+Os valores do manifesto ágil
+O documento manifesto ágil foi criado em 2001.
+Manifesto ágil:
+Indivíduos e interações, mais que processos e ferramentas; software em funcionamento mais do que documentação abrangente;
+Colaboração com o cliente mais que a negociação de contratos;
+Responder a mudanças mais do que seguir um plano.
+Os 12 princípios do manifesto ágil
+1 nossa maior prioridade é satisfazer o cliente através da entrega continua e adiantada de software com valor agregado.
+2 aceitar mudanças de requisitos, mesmo no fim do desenvolvimento. Processo ágeis se adequam à mudanças para que o cliente possa tirar vantagens competitivas.
+3 entregar frequentemente software funcionando, de poucas semanas a poucos meses com preferência a menor escala de tempo.
+4 pessoas de negócio e desenvolvedores trabalham diariamente em conjunto por todo o projeto.
+5 construir projetos em torno de indivíduos motivados, dando a eles o ambiente e o suporte necessário e confiando neles para fazer o trabalho.
+6 o método mais eficiente e eficaz de transmitir informações para e entre uma equipe de desenvolvimento é por meio da conversa Face a Face.
+7 software funcionando é a medida primária de progresso.
+8 os processos ágeis promovem desenvolvimento sustentável. Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante e indefinidamente.
+9 continua atenção a excelência técnica e bom design aumenta a agilidade.
+10 simplicidade: a arte de maximizar a quantidade de trabalho não realizado é essencial.
+11 as melhores arquiteturas, requisitos e designs emergem de times auto-organizáveis.
+12 em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento de acordo.
+O que é gestão ágil
+Uma forma de gestão que seja:
+Flexível e que se adapte as mudanças;
+Colaborativa e que gere transparência;
+Voltada ao aprendizado;
+Entrega continua de valor.
+Metodologias ágeis
+Scrum
+Scrum é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
+As bases dos Scrum: empirismo e Lean thinking
+Pilares do Scrum
+Transparência: permite que todos os ângulos de qualquer processo Scrum sejam observados por qualquer pessoa ponto isto promove um fluxo de informação fácil e transparente em toda a organização e cria uma cultura de trabalho aberta.
+Inspeção: é a arte de pensar, no sentido de aplicar uma visão crítica sobre o que está acontecendo. Ele tem que ter variações ou problemas potencialmente indesejáveis.
+• olhando o progresso do time
+• feedback dos clientes e stakeholders
+• inspeção e aprovação de entregas
+Adaptação: acontece quando o Time Scrum aprende através da transparência e da inspeção e , em seguida, adaptam o processo ao fazerem melhorias no trabalho que está sendo realizado, evitando também, novos desvios.
+O que é XP (Extreme Programming)
+Extreme programming é um método ágil criado no final da década de 90 para desenvolvimento de software. É uma metodologia que tem como objetivo criar sistemas com alta qualidade, com base em uma interação próxima com os clientes, testagem constante e ciclos de desenvolvimento curtos.
+O objetivo principal é fazer ciclos de entrega rápidos, contínuos e incrementais, para atingir os resultados esperados pelo cliente.
+O que é Kanban
+É um método para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software.
+Funciona como uma ferramenta de gestão de tarefas.
+OKR
+Objectives
+Key
+Results
+OKR é um método de gestão ágil que foi criado pelo ex- CEO da Intel e tem como objetivo simplificar a forma de encarar os chamados principais objetivos estratégicos de uma empresa.
+O objetivo do OKR são descrições qualitativas que apontam a direção que deverá ser seguida pela empresa.
+Key results são as metas que determinam o atingimento do objetivo na metodologia OKR.
+Os Key results serve como referência para indicar o progresso em direção ao objetivo principal.
+

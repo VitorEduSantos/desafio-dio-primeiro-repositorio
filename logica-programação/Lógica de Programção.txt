@@ -1,0 +1,19 @@
+﻿Lógica de programação
+
+O que é lógica?
+Parte da filosofia que trata das formas de pensamento em geral e das operações intelectuais que visam a determinação do que é verdadeiro ou não.
+Na computação
+Organização e planejamento das instruções, assertivas em algoritmo, a fim de viabilizar a implementação de um programa.
+Técnicas de lógica de programação
+Técnica linear:
+Modelo tradicional
+Não tem vínculo
+Estrutura hierárquica
+Programação de computadores
+Execução sequencial
+Técnica estruturada
+Organização, disposição e ordem dos elementos essenciais que compõe o corpo (concreto ou abstrato).
+Não é linear
+Técnica modular
+Partes independentes contratadas por um conjunto de regras.
+

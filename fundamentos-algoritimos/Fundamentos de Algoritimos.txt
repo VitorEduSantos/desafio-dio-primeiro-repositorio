@@ -1,0 +1,21 @@
+﻿Fundamentos de Algoritimos
+
+Fundamentos de algoritmos
+Tipologias e variáveis
+Tipos:
+Numéricos inteiros e reais;
+Caracteres: tudo que não é número e letra;
+Boolean (lógico): verdadeiro ou falso;
+O que é uma variável?
+Tipo de estrutura mutável, possui variações, inconstante.
+Regras no nome da variável:
+Atribuição de um ou mais caracteres;
+Primeira letra - não número;
+Sem espaços em branco;
+Não pode usar palavras reservadas da linguagem;
+Caracteres e números;
+Constante: não muda, não pode ser alterado.
+Vetores e matrizes
+Vetores: é caracterizado por uma variável dimensionada com tamanho pre fixado
+Matriz: e uma tabela organizada em linhas e colunas no formato m x n onde m representa o número de linhas (horizontal) e o n o numero de colunas (vertical).
+

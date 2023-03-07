@@ -1,0 +1,21 @@
+﻿Introdução ao Git/Github
+
+Comandos do terminal que preciso saber (Linux)
+ls - lista de pastas (diretórios);
+ls -a pastas ocultas e pastas normais;
+cd + nome de pasta pra acessá-la
+cd .. pra voltar uma pasta
+clear ou ctrl + L limpar terminal
+Criar pasta: mkdir + nome que vai por na pasta
+Criar arquivos : echo + conteúdo do arquivo + > tipo de arquivo
+Deletar arquivo/ pasta:
+rm -rf nome da pasta
+Tópicos fundamentais para entender o funcionamento do Git
+SHA1:
+A sigla SHA significa Secure Hash Algorithm (algoritmo de Hash seguro), é um conjunto de funções Hash criptográficas projetada pela NSA( Segurança Nacional dos EUA).
+A encriptação geta um conjunto de caracteres identificador de 40 dígitos que é único.
+Objetos internos do Git
+Blobs
+Trees
+Commits
+
